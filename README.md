@@ -22,3 +22,9 @@ A static React app for mapping Rural Access Index numbers.
 ### Running tests
 
  - `yarn test`
+
+
+### Deploying
+
+ - `yarn deploy` deploys the app to GitHub Pages
+ - Deployed site is at https://azavea.github.io/cardno-recap/
