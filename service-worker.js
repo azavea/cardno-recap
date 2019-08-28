@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cardno-recap/precache-manifest.b7ce14f31f507cc48e621bc82d6d58d3.js"
+  "/cardno-recap/precache-manifest.84114d535a7efc6fa4651265f871e9a6.js"
 );
 
 self.addEventListener('message', (event) => {

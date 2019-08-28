@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/cardno-recap/static/css/main.19393e92.chunk.css",
-    "main.js": "/cardno-recap/static/js/main.880ef4c8.chunk.js",
-    "main.js.map": "/cardno-recap/static/js/main.880ef4c8.chunk.js.map",
+    "main.css": "/cardno-recap/static/css/main.1a1c34f2.chunk.css",
+    "main.js": "/cardno-recap/static/js/main.dd8ccd73.chunk.js",
+    "main.js.map": "/cardno-recap/static/js/main.dd8ccd73.chunk.js.map",
     "runtime~main.js": "/cardno-recap/static/js/runtime~main.88bf3d6a.js",
     "runtime~main.js.map": "/cardno-recap/static/js/runtime~main.88bf3d6a.js.map",
-    "static/js/2.539c6abd.chunk.js": "/cardno-recap/static/js/2.539c6abd.chunk.js",
-    "static/js/2.539c6abd.chunk.js.map": "/cardno-recap/static/js/2.539c6abd.chunk.js.map",
+    "static/css/2.098bc035.chunk.css": "/cardno-recap/static/css/2.098bc035.chunk.css",
+    "static/js/2.93baaf7d.chunk.js": "/cardno-recap/static/js/2.93baaf7d.chunk.js",
+    "static/js/2.93baaf7d.chunk.js.map": "/cardno-recap/static/js/2.93baaf7d.chunk.js.map",
     "index.html": "/cardno-recap/index.html",
-    "precache-manifest.b7ce14f31f507cc48e621bc82d6d58d3.js": "/cardno-recap/precache-manifest.b7ce14f31f507cc48e621bc82d6d58d3.js",
+    "precache-manifest.84114d535a7efc6fa4651265f871e9a6.js": "/cardno-recap/precache-manifest.84114d535a7efc6fa4651265f871e9a6.js",
     "service-worker.js": "/cardno-recap/service-worker.js",
-    "static/css/main.19393e92.chunk.css.map": "/cardno-recap/static/css/main.19393e92.chunk.css.map",
-    "static/media/logo.svg": "/cardno-recap/static/media/logo.5d5d9eef.svg"
+    "static/css/2.098bc035.chunk.css.map": "/cardno-recap/static/css/2.098bc035.chunk.css.map",
+    "static/css/main.1a1c34f2.chunk.css.map": "/cardno-recap/static/css/main.1a1c34f2.chunk.css.map"
   }
 }
